@@ -1,2 +1,2 @@
 # Real-estate
-website hosted at https://github.com/pratyusha2001/Real-estate.git
+website published at https://pratyusha2001.github.io/Real-estate/
